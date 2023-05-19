@@ -1,6 +1,6 @@
 # Test Suite
 
-Test suite for forkphorus. Automatically runs a few Scratch projects and validates they function correctly.
+Test suite for PlasmaSpeed. Automatically runs a few Scratch projects and validates they function correctly.
 
 To visit the test suite: [https://forkphorus.github.io/tests/suite.html](https://forkphorus.github.io/tests/suite.html)
 
